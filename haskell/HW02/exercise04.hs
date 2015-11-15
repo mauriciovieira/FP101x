@@ -1,0 +1,3 @@
+-- In hugs
+-- :t [tail, init, reverse]
+-- [tail,init,reverse] :: [[a] -> [a]]

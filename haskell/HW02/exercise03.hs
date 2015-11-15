@@ -1,0 +1,3 @@
+-- In hugs
+-- :t ([False, True], ['0', '1'])
+-- ([False,True],['0','1']) :: ([Bool],[Char])
