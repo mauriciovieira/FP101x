@@ -1,0 +1,4 @@
+--Main> [1,2,3] ++ 4
+--ERROR - Cannot infer instance
+--*** Instance   : Num [a]
+--*** Expression : [1,2,3] ++ 4

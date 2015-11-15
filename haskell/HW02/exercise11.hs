@@ -1,0 +1,2 @@
+-- Is it feasible for function types (in general) to be instances of the Eq class?
+-- Infeasible in general; only feasible for some functions.

@@ -1,0 +1,2 @@
+--Main> :type ["False", "True"]
+--["False","True"] :: [[Char]]

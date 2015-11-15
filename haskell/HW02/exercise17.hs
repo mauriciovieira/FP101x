@@ -1,0 +1,2 @@
+--Main> :t [(1,True),(0,False)]
+--[(1,True),(0,False)] :: Num a => [(a,Bool)]
